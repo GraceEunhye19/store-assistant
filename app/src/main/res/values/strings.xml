@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Store Assistant</string>
+    <string name="no_items_text">Oops\n Looks like there\'s nothing in your Store\n Tap + if there are items you\'d like to add</string>
+    <string name="edit_item_title">Edit Item</string>
+    <string name="add_item_title">Add Item</string>
+    <string name="go_back">Go Back</string>
+    <string name="add_image">Use buttons below to add image</string>
+</resources>
