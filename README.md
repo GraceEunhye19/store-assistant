@@ -27,7 +27,7 @@ Installation
 3. Allow installation from unknown sources if prompted.  
 4. Launch the app.
 
-👉 [Download APK] (https://drive.google.com/file/d/12IYWInu3OO9SnvLTGsq_h_i1EIZyZllq/view?usp=drivesdk)
+👉 [Download APK](https://drive.google.com/file/d/12IYWInu3OO9SnvLTGsq_h_i1EIZyZllq/view?usp=drivesdk)
 
 ---
 
