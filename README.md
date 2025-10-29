@@ -33,13 +33,13 @@ Installation
 
 👉 Demo Video
 Watch the demo here:  
-[Demo Video Link]()
+[Demo Video Link](https://drive.google.com/file/d/1s2t_OAUjWV46lluH_2SOjz7rxdWMhxVm/view?usp=drivesdk)
 
 ---
 
 👉 GitHub Repository
 View the complete project here:  
-[GitHub Repo]()
+[GitHub Repo](https://github.com/GraceEunhye19/store-assistant)
 
 ---
 
